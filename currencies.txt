@@ -1,0 +1,9 @@
+USD, Dólar estadounidense, $
+CAD, Dólar canadiense, $
+EUR, Euro, €
+GBP, Libra esterlina, £
+INR, Rupia india, ₹
+JPY, Yen japonés, ¥
+CNY, Yuan renminbi chino, ¥
+BTC, Bitcoin, ß
+ETH, Ethereum, Ξ
